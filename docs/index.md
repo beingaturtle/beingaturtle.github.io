@@ -35,11 +35,15 @@ The main sections of this documentation are summarized below:
 * <span style ="color:#e66b00 "> Forward BCIT Email to Personal Email </span>
 
 
-Typographical Conventions:
+## Typographical Conventions:
 
-1. Instructions that require you to click on an item, such as a link or a button, will be bolded.  For example: Click 
-   on the **Continue button**.
-2. italics
+1. Instructions that require you to click on an item, such as a link or a button, or press a keyboard key, will be 
+   bolded.  For 
+   example: 
+    - **Click on the Continue button**
+    - **Press the Enter key**
+2. Instructions that require you to type in information will be italicized. For example:
+    - _Enter your information_
 
 ## Notes, Danger, and Success Messages
 Throughout the documentation, you'll encounter message blocks that alert you with relevant information.
