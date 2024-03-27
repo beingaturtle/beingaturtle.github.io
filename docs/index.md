@@ -1,6 +1,7 @@
 # Introduction
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to our documentation that will help you navigate to <strong> three </strong> important sections in the 
+[myBCIT](https://my.bcit.ca/) website.
 
 ## Commands
 
