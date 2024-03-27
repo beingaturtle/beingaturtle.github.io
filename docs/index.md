@@ -1,5 +1,5 @@
 # Introduction
-Welcome to our documentation that will help you navigate to <span style ="color:blue"> <strong> three </strong> </span> 
+Welcome to our documentation that will help you navigate to <span style ="color:blue"> <u> three </u> </strong> </span> 
 important sections in the 
 [myBCIT](https://my.bcit.ca/) website. The goal is provide a detailed tutorial that streamlines BCIT students in 
 finding their course schedule, creating an e-mail signature, and forwarding myBCIT e-mails to their personal e-mail 
@@ -34,10 +34,24 @@ The main sections of this documentation are summarized below:
 * <span style ="color:blue"> Forward BCIT Email to Personal Email </span>
 
 
-Typographical:
-Everytime you know it's bold, it's a link. Every link will b
+Typographical Conventions:
+
+1. Instructions that require you to click on an item, such as a link or a button, will be bolded  For example: Click 
+   on the **Continue button**.
+
+2. 
+2. asdf
 - bold
 - italics
+
+## Notes, Danger, and Success Messages
+
+!!! danger
+    Specific actions may cause issues when navigating the website.
+!!! note
+    Provides additional information regarding a specific task.
+!!! success
+    Indicates what a successful task looks like.
 
 ## Project layout
 
