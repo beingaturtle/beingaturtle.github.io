@@ -1,14 +1,43 @@
 # Introduction
+Welcome to our documentation that will help you navigate to <span style ="color:blue"> <strong> three </strong> </span> 
+important sections in the 
+[myBCIT](https://my.bcit.ca/) website. The goal is provide a detailed tutorial that streamlines BCIT students in 
+finding their course schedule, creating an e-mail signature, and forwarding myBCIT e-mails to their personal e-mail 
+address.
 
-Welcome to our documentation that will help you navigate to <strong> three </strong> important sections in the 
-[myBCIT](https://my.bcit.ca/) website.
+## Intended User
+This documentation is targeted towards the following user:
 
-## Commands
+* New and current BCIT students with a myBCIT account who are looking for their course schedule and help with 
+  optimizing their myBCIT e-mail.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Prerequisite Knowledge:
+This documentation assumes:
+
+* Working knowledge on navigating a website
+* Ability to search for information in an e-mail platform
+
+
+## Software Requirements
+Please ensure that you have one of the following internet browers installed:
+
+> * <span style ="color:blue"> Google Chrome v122.0 </span> or later
+* <span style ="color:blue"> Safari v17.3.1 </span> or later
+* <span style ="color:blue"> Firefox v124 </span> or later
+* <span style ="color:blue"> Any other updated internet browsers </span>
+
+## Procedures Overview
+The main sections of this documentation are summarized below:
+
+* <span style ="color:blue"> View Course Schedule </span>
+* <span style ="color:blue"> Create an Email Signature </span>
+* <span style ="color:blue"> Forward BCIT Email to Personal Email </span>
+
+
+Typographical:
+Everytime you know it's bold, it's a link. Every link will b
+- bold
+- italics
 
 ## Project layout
 
