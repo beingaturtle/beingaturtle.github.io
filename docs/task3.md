@@ -33,17 +33,31 @@
 
 8. Left click on “Filter”, found on the left side of the page
 
-9. Left click on "+", found under the filters section
+9. Left click on "+", found under the filters set section
 
-10. Provide a name for the filter (Example: “Forward email to gmail”), When in the “Filter name” box.
+    !!! Note
+        This will open the new filters set in the right side
 
-11. Left click on ‘all messages’, Under “For incoming mail”.
+10. Type Forwarding for "Filters Set Name" and Select None for "Filters"
 
-12. Left click on the drop-down menu and select “Redirect message to”, Under “...execute the following actions”.
+    !!! Note
+    - This will create a filter set named Forwarding under filter sets
+    - which allows you to group the different filters you want for your emails
 
-13. Type in the email address that you want to forward your incoming BCIT Emails to
+11. Select the newly created filter set name "Forwarding" under the "Filter Sets"
 
-14. Click on the “Save” button
+12. Left click on the "+" under "filters"
+
+    !!! Note
+        This will open "Filter Definition" section
+
+13. Type "Forwarding to Gmail" for Filter name and Select "all messages"
+
+14. Left click on the drop-down menu and select “Redirect message to”
+
+15. Type in the email address that you want to forward your incoming BCIT Emails to
+
+16. Click on the “Save” button
 
     !!! Note
         - The newly created filter profile will appear under filters <br>
