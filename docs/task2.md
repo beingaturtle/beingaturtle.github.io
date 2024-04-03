@@ -25,7 +25,7 @@ Before creating your e-mail signature, you will need to login to the myBCIT webs
        - E-mail: <Looney@my.bcit.ca>
        - Password: 1234562
 
-2. <u>Type in the search bar: [https://my.bcit.ca/](https://my.bcit.ca/)</a></u> 
+2. <u>Type in the search bar: [https://my.bcit.ca/](https://my.bcit.ca/)</u> 
    and **press the Enter key**. You will be directed to myBCIT Login 
    Page
 
