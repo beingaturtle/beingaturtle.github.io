@@ -104,4 +104,7 @@ By the end of this section, you will have learned the following:
     <li id="staremoji"> ⭐&nbsp How to create filter sets and join different filters together</li>
 </ul>
 
-Excellent work. Feel free to proceed to the next
+You're an expert now! The next page has information to help troubleshoot any issues you may have encountered.
+<br>
+<br>
+[**Troubleshooting**](troubleshooting.md)
