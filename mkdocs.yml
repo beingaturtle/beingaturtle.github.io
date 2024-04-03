@@ -24,7 +24,7 @@ theme:
     - navigation.sections
     - navigation.expand
     - toc.integrate
-  
+    - navigation.footer
   
   palette:
     # Palette toggle for automatic mode
