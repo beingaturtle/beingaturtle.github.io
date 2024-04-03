@@ -23,6 +23,7 @@ Please ensure that you have one of the following internet browers installed:
 * <a href = "https://www.google.com/intl/en_ca/chrome/" style = "color: #e66b00"> Google Chrome v122.0 </a> or later
 * <a href = "https://www.apple.com/ca/safari/" style = "color: #e66b00"> Safari v17.3.1 </a> or later
 * <a href = "https://www.mozilla.org/en-CA/firefox/new/" style = "color: #e66b00"> Firefox v124 </a> or later
+* <a href = "https://www.microsoft.com/en-us/edge/download?form=MA13FJ" style = "color: #e66b00"> Microsoft Edge v131 </a> or later
 * Any other updated internet browsers
 
 ## Procedures Overview
