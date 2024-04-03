@@ -93,3 +93,13 @@ Test to ensure the signature is seen when you send a email
 3. Verify the signature block on the if it corresponds to your edited signature.
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S14.png){ loading=lazy: style="height:400px;width:300px" }  </figure>
+
+## Conclusion
+
+By the end of this section, you will have learned the following:
+<ul>
+    <li id="staremoji"> ⭐&nbsp How to change your email signature for BCIT Email</li>
+    <li id="staremoji"> ⭐&nbsp How to access your BCIT Email from MyBCIT website</li>
+</ul>
+
+Excellent work. Feel free to proceed to the next

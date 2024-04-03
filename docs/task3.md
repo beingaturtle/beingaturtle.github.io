@@ -95,3 +95,31 @@ section the email you have used during the walkthrough will receive email from y
     !!! Success
         - The newly created filter profile will appear under filters <br>
         - Now, all e-mails sent to your myBCIT e-mail address will automatically be forwarded to the e-mail address(es) you specified
+
+## Conclusion
+
+By the end of this section, you will have learned the following:
+
+<div style="display: flex; align-items: center;">
+  <div style="width: 30px; height: 30px; background-color: green; border-radius: 50%; display: flex; justify-content: center; align-items: center;">
+    <span style="color: white; font-size: 20px;">✓</span>
+  </div>
+  <span style="margin-left: 10px;">Forward emails receive in your BCIT email to a different email</span>
+</div>
+
+<div style="display: flex; align-items: center; margin-top: 8px;">
+  <div style="width: 30px; height: 30px; background-color: green; border-radius: 50%; display: flex; justify-content: center; align-items: center;">
+    <span style="color: white; font-size: 20px;">✓</span>
+  </div>
+  <span style="margin-left: 10px;">Discovered how to create filter sets and join different filters together</span>
+</div>
+
+## Conclusion
+
+By the end of this section, you will have learned the following:
+<ul>
+    <li id="staremoji"> ⭐&nbsp How to forward emails receive in your BCIT inbox to a different email</li>
+    <li id="staremoji"> ⭐&nbsp How to create filter sets and join different filters together</li>
+</ul>
+
+Excellent work. Feel free to proceed to the next
