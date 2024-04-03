@@ -1,9 +1,9 @@
-# Changing BCIT Email Signature
+# Creating BCIT Email Signature
 
 
 ## Overview
 
-In this section, we will walk you through how to Change your BCIT email signature which will always be attached at 
+In this section, we will walk you through how to create a BCIT email signature which will always be attached at 
 the bottom of every email you send. Creating an email signature serves several purposes<sup>[1](#fn1)</sup>:
 
 - Increased Professionalism
@@ -123,7 +123,7 @@ Test to ensure the signature is seen when you send a email
 
 By the end of this section, you will have learned the following:
 <ul>
-    <li id="staremoji"> ⭐&nbsp How to change your email signature for BCIT Email</li>
+    <li id="staremoji"> ⭐&nbsp How to create your email signature for BCIT Email</li>
     <li id="staremoji"> ⭐&nbsp How to access your BCIT Email from MyBCIT website</li>
 </ul>
 
