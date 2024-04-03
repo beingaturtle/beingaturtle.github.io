@@ -31,8 +31,8 @@ Please ensure that you have one of the following internet browers installed:
 The main sections of this documentation are summarized below:
 
 * <span style ="color:#e66b00 "> Accessing BCIT Course Schedule </span>
-* <span style ="color:#e66b00 "> Creating Email Signature </span>
-* <span style ="color:#e66b00 "> Forwarding BCIT Email </span>
+* <span style ="color:#e66b00 "> Creating E-mail Signature </span>
+* <span style ="color:#e66b00 "> Forwarding BCIT E-mail </span>
 
 
 ## Typographical Conventions

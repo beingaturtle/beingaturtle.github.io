@@ -12,7 +12,7 @@ Before accessing your BCIT course schedule, you will need to login to the myBCIT
 1. Ensure you have a BCIT Account
 <br>
     Example:
-       - Email: <Looney@my.bcit.ca>
+       - E-mail: <Looney@my.bcit.ca>
        - Password: 1234562
 
 2. <u>**Type in the search bar** <https://my.bcit.ca></u> and **press the Enter key**. You will be directed to myBCIT Login 
@@ -70,4 +70,4 @@ By the end of this section, you will have learned the following:
 Excellent work! Feel free to proceed to the next step.
 <br>
 <br>
-[**Changing BCIT Email Signature**](task2.md)
+[**Changing BCIT E-mail Signature**](task2.md)

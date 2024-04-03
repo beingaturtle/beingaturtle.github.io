@@ -1,27 +1,27 @@
-# Creating BCIT Email Signature
+# Creating BCIT E-mail Signature
 
 
 ## Overview
 
-In this section, we will walk you through how to create a BCIT email signature which will always be attached at 
-the bottom of every email you send. Creating an email signature serves several purposes<sup>[1](#fn1)</sup>:
+In this section, we will walk you through how to create a BCIT e-mail signature which will always be attached at 
+the bottom of every e-mail you send. Creating an e-mail signature serves several purposes<sup>[1](#fn1)</sup>:
 
 - Increases Professionalism
 - Shows Personality
 - Creates Personal Branding
 
-These are only a few benefits that an email signature can provide. Whether you're a student or preparing for a job 
-hunt, an email signature can be tailored accordingly!
+These are only a few benefits that an e-mail signature can provide. Whether you're a student or preparing for a job 
+hunt, an e-mail signature can be tailored accordingly!
 
-By the end of this section, emails you send using your BCIT email will contain a customized email signature.
+By the end of this section, e-mails you send using your BCIT e-mail will contain a customized e-mail signature.
 
 ## Steps to Login to myBCIT Website
-Before creating your email signature, you will need to login to the myBCIT website:
+Before creating your e-mail signature, you will need to login to the myBCIT website:
 
 1. Ensure you have a BCIT Account 
 <br>
     Example:
-       - Email: <Looney@my.bcit.ca>
+       - E-mail: <Looney@my.bcit.ca>
        - Password: 1234562
 
 2. <u>Type in the Search bar <https://my.bcit.ca></u> and **press the Enter key**. You will be directed to BCIT 
@@ -30,9 +30,6 @@ Before creating your email signature, you will need to login to the myBCIT websi
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S3.png){ loading=lazy } </figure>
 
 3. <u>Type in your Account Credentials</u>
-    <!-- Email: <rmaceda1@mybcit.ca>
-    Password: 123456789 
-    // Maybe we can remove this -->
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S4.png){ loading=lazy } </figure>
 
@@ -59,7 +56,7 @@ Before creating your email signature, you will need to login to the myBCIT websi
 
 
 
-## Create Email Signature
+## Create E-mail Signature
 
 1. **Click “Settings”,** found on the upper right of the website
 
@@ -89,7 +86,7 @@ Before creating your email signature, you will need to login to the myBCIT websi
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S10.png){ loading=lazy } </figure>
 
     !!! Note
-        You can edit your email signature anyway you'd like and feel free to refer to our sample signature
+        You can edit your e-mail signature anyway you'd like and feel free to refer to our sample signature
 
 5. **Click the blue button “Save”**, after you finish editing to save.
 
@@ -100,7 +97,7 @@ Before creating your email signature, you will need to login to the myBCIT websi
 
 ## Verifying Signature
 
-Test to ensure the signature is seen when you send a email
+Test to ensure the signature is seen when you send a e-mail
 
 1. **Click “Mail”** found on the upper right of the website, to go back to your BCIT mail inbox
 
@@ -111,28 +108,28 @@ Test to ensure the signature is seen when you send a email
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S13.png){ loading=lazy } </figure>
 
     !!! Note
-        You will now be directed to a page where you will be composing an email
+        You will now be directed to a page where you will be composing an e-mail
 
-3. Verify that your signature block is populated in the email message
+3. Verify that your signature block is populated in the e-mail message
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S14.png){ loading=lazy }  </figure>
 
 !!! success
-    Well done! You have now created a signature for your BCIT email
+    Well done! You have now created a signature for your BCIT e-mail
 
 ## Conclusion
 
 By the end of this section, you will have learned the following:
 <ul>
-    <li id="staremoji"> ⭐&nbsp How to create your email signature for BCIT Email</li>
-    <li id="staremoji"> ⭐&nbsp How to access your BCIT Email from MyBCIT website</li>
+    <li id="staremoji"> ⭐&nbsp How to create your e-mail signature for BCIT E-mail</li>
+    <li id="staremoji"> ⭐&nbsp How to access your BCIT E-mail from MyBCIT website</li>
 </ul>
 
 ## Next Steps
 Wonderful job! Feel free to proceed to the next step.
 <br>
 <br>
-[**Forwarding BCIT Email**](task3.md)
+[**Forwarding BCIT E-mail**](task3.md)
 
 ***
 <a id="fn1">[1. The positive benefits of a personal email signature](https://exclaimer.
