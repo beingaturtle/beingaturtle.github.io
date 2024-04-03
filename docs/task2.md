@@ -55,8 +55,9 @@ Before creating your email signature, you will need to login to the myBCIT websi
 
     !!! Note
         You will be directed to your BCIT Mail Webpage to your mail inbox
+        <figure markdown = "span"> ![Image title](./assets/task2/T2_S6.1.png){ loading=lazy } </figure>
 
-    <figure markdown = "span"> ![Image title](./assets/task2/T2_S6.1.png){ loading=lazy } </figure>
+
 
 ## Create Email Signature
 
