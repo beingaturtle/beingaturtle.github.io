@@ -1,4 +1,4 @@
-site_name: Ian Richard
+site_name: Exploring myBCIT Essentials
 markdown_extensions:
   - admonition
   - pymdownx.details
