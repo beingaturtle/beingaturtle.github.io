@@ -16,11 +16,11 @@ section the email you have used during the walkthrough will receive email from y
 
 <figure markdown = "span">![Image title](./assets/task2/T2_S2.png){: style="height:250px;width:250px"} </figure>
 
-3. *Type in the Search bar <https://my.bcit.ca>* and *click Enter*, you will be directed to BCIT Login Page
+3. <u>**Type in the Search bar <https://my.bcit.ca>**</u> and *click Enter*, you will be directed to BCIT Login Page
 
 <figure markdown = "span"> ![Image title](./assets/task3/T3_S3.png){ loading=lazy } </figure>
 
-4. *Type in your Account Credentials*
+4. <u>**Type in your Account Credentials**</u>
     <!-- Email: <rmaceda1@mybcit.ca>
     Password: 123456789 
     // Maybe we can remove this -->
@@ -54,7 +54,7 @@ section the email you have used during the walkthrough will receive email from y
 
 <figure markdown = "span"> ![Image title](./assets/task3/T3_S8.png){ loading=lazy } </figure>
 
-9. **Click** on "+", found under the filters set section
+9. **Click on +** found under the filters set section
 
 <figure markdown = "span"> ![Image title](./assets/task3/T3_S9.png){ loading=lazy } </figure>
 
@@ -63,7 +63,7 @@ section the email you have used during the walkthrough will receive email from y
 
 <figure markdown = "span"> ![Image title](./assets/task3/T3_S9.1.png){ loading=lazy } </figure>
 
-10. *Type "Forwarding" for Filters Set Name* and **select and click none for filters**
+10. <u>**Type "Forwarding" for Filters Set Name**</u> and **select and click none for filters**
 
 <figure markdown = "span"> ![Image title](./assets/task3/T3_S10.png){ loading=lazy } </figure>
 
@@ -75,14 +75,14 @@ section the email you have used during the walkthrough will receive email from y
 
 <figure markdown = "span"> ![Image title](./assets/task3/T3_S11.png){ loading=lazy } </figure>
 
-12. **Click** on the "+" under "filters"
+12. **Click on the +** under "filters"
 
 <figure markdown = "span"> ![Image title](./assets/task3/T3_S12.png){ loading=lazy } </figure>
 
 !!! Note
     This will open "Filter Definition" section
 
-13. *Type "Forwarding to Gmail"* for Filter name and Select "all messages"
+13. <u>**Type "Forwarding to Gmail"**</u> for Filter name and Select "all messages"
 
 <figure markdown = "span"> ![Image title](./assets/task3/T3_S13.png){ loading=lazy } </figure>
 
@@ -90,7 +90,7 @@ section the email you have used during the walkthrough will receive email from y
 
 <figure markdown = "span"> ![Image title](./assets/task3/T3_S14.png){ loading=lazy } </figure>
 
-15. *Type the email address* that you want to forward your incoming BCIT Emails to
+15. <u>**Type the email address**</u> that you want to forward your incoming BCIT Emails to
 
 <figure markdown = "span"> ![Image title](./assets/task3/T3_S15.png){ loading=lazy } </figure>
 
@@ -98,6 +98,6 @@ section the email you have used during the walkthrough will receive email from y
 
 <figure markdown = "span"> ![Image title](./assets/task3/T3_S16.png){ loading=lazy } </figure>
 
-!!! Note
+!!! Success
     - The newly created filter profile will appear under filters <br>
     - Now, all e-mails sent to your myBCIT e-mail address will automatically be forwarded to the e-mail address(es) you specified

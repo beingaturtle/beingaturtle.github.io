@@ -17,11 +17,11 @@ By the end of this section emails you have sent using the BCIT email will have t
 !!! Note
     BCIT recommends using Chrome,Firefox, or Edge as your main web browser
 
-3. **Type in the Search bar** <https://my.bcit.ca> and **click Enter**, you will be directed to BCIT Login Page
+3. <u>**Type in the Search bar <https://my.bcit.ca>**</u> and **click Enter**, you will be directed to BCIT Login Page
 
 <figure markdown = "span"> ![Image title](./assets/task2/T2_S3.png){ loading=lazy } </figure>
 
-4. Type in your Account Credentials
+4. <u>**Type in your Account Credentials**</u>
     <!-- Email: <rmaceda1@mybcit.ca>
     Password: 123456789 
     // Maybe we can remove this -->
@@ -75,7 +75,7 @@ By the end of this section emails you have sent using the BCIT email will have t
 
 <figure markdown = "span"> ![Image title](./assets/task2/T2_S10.png){ loading=lazy } </figure>
 
-11. **Click the blue button “Save”**, after you finish editing to save it.
+11. **Click the blue button “Save”**, after you finish editing to save.
 
 <figure markdown = "span"> ![Image title](./assets/task2/T2_S11.png){ loading=lazy } </figure>
 
