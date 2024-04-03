@@ -1,8 +1,6 @@
 # Introduction
-Welcome to our documentation that will help you navigate to <span style ="color:#e66b00"> _three_ </strong> 
-</span> 
-important sections in the 
-[myBCIT](https://my.bcit.ca/) website. The goal is provide a detailed tutorial that streamlines BCIT students in 
+Welcome to our documentation that will help you navigate to three important sections in the <a href = "https://my.bcit.ca/" style = "color: #e66b00"> myBCIT </a>
+ website. The goal is provide a detailed tutorial that streamlines BCIT students in 
 finding their course schedule, creating an e-mail signature, and forwarding myBCIT e-mails to their personal e-mail 
 address.
 
@@ -22,18 +20,17 @@ This documentation assumes:
 ## Software Requirements
 Please ensure that you have one of the following internet browers installed:
 
-* <span style ="color:#e66b00 "> Google Chrome v122.0 </span> or later
-* <span style ="color:#e66b00 "> Safari v17.3.1 </span> or later
-* <span style ="color:#e66b00 "> Firefox v124 </span> or later
-* <span style ="color:#e66b00 "> Any other updated internet browsers </span>
+* <a href = "https://www.google.com/intl/en_ca/chrome/" style = "color: #e66b00"> Google Chrome v122.0 </a> or later
+* <a href = "https://www.apple.com/ca/safari/" style = "color: #e66b00"> Safari v17.3.1 </a> or later
+* <a href = "https://www.mozilla.org/en-CA/firefox/new/" style = "color: #e66b00"> Firefox v124 </a> or later
+* Any other updated internet browsers
 
 ## Procedures Overview
 The main sections of this documentation are summarized below:
 
-* <span style ="color:#e66b00 "> Accessing BCIT Course Schedule </span>
-* <span style ="color:#e66b00 "> Creating E-mail Signature </span>
-* <span style ="color:#e66b00 "> Forwarding BCIT E-mail </span>
-
+* <a href = "task1" style = "color: #e66b00"> Accessing BCIT Course Schedule </a>
+* <a href = "task2" style = "color: #e66b00"> Creating E-mail Signature </a>
+* <a href = "task3" style = "color: #e66b00"> Forwarding BCIT E-mail </a>
 
 ## Typographical Conventions
 
