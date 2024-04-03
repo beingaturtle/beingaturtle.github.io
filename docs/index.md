@@ -22,7 +22,7 @@ This documentation assumes:
 ## Software Requirements
 Please ensure that you have one of the following internet browers installed:
 
-> * <span style ="color:#e66b00 "> Google Chrome v122.0 </span> or later
+* <span style ="color:#e66b00 "> Google Chrome v122.0 </span> or later
 * <span style ="color:#e66b00 "> Safari v17.3.1 </span> or later
 * <span style ="color:#e66b00 "> Firefox v124 </span> or later
 * <span style ="color:#e66b00 "> Any other updated internet browsers </span>
