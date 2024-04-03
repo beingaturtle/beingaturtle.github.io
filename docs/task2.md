@@ -1,9 +1,10 @@
+# Changing your Email Signature
+
+
 ## Overview
 
 In this section, we will walk you through how to Change your BCIT email signature which will always be attached at the bottom of every email you sent.
 By the end of this section emails you have sent using the BCIT email will have the corresponding signature you use in this section.
-
-## Changing your Email Signature
 
 1. Ensure you have a BCIT Account <br>
     Example:

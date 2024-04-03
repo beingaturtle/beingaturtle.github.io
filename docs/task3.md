@@ -1,9 +1,9 @@
+# Forwarding your BCIT Email to a Different Email
+
 ## Overview
 
 In this section, we will walk you in setting up your BCIT email forwarding to other email you may own. By the end of this
 section the email you have used during the walkthrough will receive email from your BCIT email inbox.
-
-## Forwarding your BCIT Email to a Different Email
 
 1. Ensure you have a BCIT Account <br>
     Example:
