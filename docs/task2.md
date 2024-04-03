@@ -3,19 +3,33 @@
 
 ## Overview
 
-In this section, we will walk you through how to Change your BCIT email signature which will always be attached at the bottom of every email you sent.
-By the end of this section emails you have sent using the BCIT email will have the corresponding signature you use in this section.
+In this section, we will walk you through how to Change your BCIT email signature which will always be attached at 
+the bottom of every email you send. Creating an email signature serves several purposes<sup>[1](#fn1)</sup>:
 
-1. Ensure you have a BCIT Account <br>
+- Increased Professionalism
+- Shows Personality
+- Creates Personal Branding
+
+These are only a few benefits that an email signature can provide. Whether you're a student or preparing for a job 
+hunt, an email signature can be tailored accordingly!
+
+By the end of this section, emails you send using your BCIT email will contain a customized email signature.
+
+## Steps to Login to myBCIT Website
+Before creating your email signature, you will need to login to the myBCIT website:
+
+1. Ensure you have a BCIT Account 
+<br>
     Example:
        - Email: <Looney@my.bcit.ca>
        - Password: 1234562
 
-2. <u>**Type in the Search bar <https://my.bcit.ca>**</u> and **click Enter**, you will be directed to BCIT Login Page
+2. <u>Type in the Search bar <https://my.bcit.ca></u> and **press the Enter key**. You will be directed to BCIT 
+   Login Page
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S3.png){ loading=lazy } </figure>
 
-3. <u>**Type in your Account Credentials**</u>
+3. <u>Type in your Account Credentials</u>
     <!-- Email: <rmaceda1@mybcit.ca>
     Password: 123456789 
     // Maybe we can remove this -->
@@ -52,22 +66,25 @@ By the end of this section emails you have sent using the BCIT email will have t
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S7.1.png){ loading=lazy } </figure>
 
-7. **Click “Identities”** under the Settings header
+7. **Click “Identities”** under the 'Settings' header
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S8.png){ loading=lazy } </figure>
 
-8. **Click your Name** found under the Identities header
+8. **Click your Name** found under the 'Identities' header
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S9.png){ loading=lazy } </figure>
 
     !!! Note
-        It will open the Edit Identity on the Right Side
+        It will open an 'Edit Identity' page on the right side of your webpage
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S9.1.png){ loading=lazy } </figure>
 
-9. **Click on the Textbox** beside the Signature to start editing it
+9. **Click on the Textbox** beside 'Signature' to start editing it
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S10.png){ loading=lazy } </figure>
+
+    !!! Note
+        You can edit your email signature anyway you'd like and feel free to refer to our sample signature
 
 10. **Click the blue button “Save”**, after you finish editing to save.
 
@@ -80,7 +97,7 @@ By the end of this section emails you have sent using the BCIT email will have t
 
 Test to ensure the signature is seen when you send a email
 
-1. **Click “Mail”** found on the upper right of the website, to go back to your BCIT Mail Inbox
+1. **Click “Mail”** found on the upper right of the website, to go back to your BCIT mail inbox
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S12.png){ loading=lazy } </figure>
 
@@ -89,11 +106,15 @@ Test to ensure the signature is seen when you send a email
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S13.png){ loading=lazy } </figure>
 
     !!! Note
-        You will now be directed to a page where you will be composing an email.
+        You will now be directed to a page where you will be composing an email
 
-3. Verify the signature block on the if it corresponds to your edited signature.
+3. Verify that your signature block is populated in the email message
 
-    <figure markdown = "span"> ![Image title](./assets/task2/T2_S14.png){ loading=lazy: style="height:400px;width:300px" }  </figure>
+    <figure markdown = "span"> ![Image title](./assets/task2/T2_S14.png){ loading=lazy }  </figure>
+
+!!! success
+    Well done! You have now created a signature for your BCIT email. Whenever you send emails out, receipients will
+    notice your professionalism
 
 ## Conclusion
 
@@ -108,3 +129,7 @@ Wonderful job! Feel free to proceed to the next step.
 <br>
 <br>
 [**Forwarding BCIT Email**](task3.md)
+
+***
+<a id="fn1">[1. The positive benefits of a personal email signature](https://exclaimer.
+com/email-signature-handbook/personal-email-signature/)</a>
