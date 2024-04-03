@@ -126,7 +126,7 @@ By the end of this section, you will have learned the following:
 You're an expert now! The next page has information to help troubleshoot any issues you may have encountered.
 <br>
 <br>
-**[Troubleshooting](troubleshooting.md)** </a>
+**[Troubleshooting](troubleshooting.md)**
 
 ***
 <a id="fn1"> [1. The benefits of using email forwarding](https://ca.indeed.
