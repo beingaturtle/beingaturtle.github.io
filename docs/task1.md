@@ -57,3 +57,13 @@ schedule in BCIT using BCIT Website
     course times
     <figure markdown = "span">![Course Schedule](./assets/task1/T1_S6.png){ loading=lazy} 
     </figure>
+
+## Conclusion
+
+By the end of this section, you will have learned the following:
+<ul>
+    <li id="staremoji"> ⭐&nbsp How to navigate through the myBCIT webpage </li>
+    <li id="staremoji"> ⭐&nbsp How to access and view your course schedule </li>
+</ul>
+
+Excellent work. Feel free to proceed to the next 
