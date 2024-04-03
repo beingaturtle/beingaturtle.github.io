@@ -1,4 +1,4 @@
-# Accessing your BCIT Course Schedule
+# Accessing BCIT Course Schedule
 
 ## Overview 
 

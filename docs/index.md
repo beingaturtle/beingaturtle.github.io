@@ -30,9 +30,9 @@ Please ensure that you have one of the following internet browers installed:
 ## Procedures Overview
 The main sections of this documentation are summarized below:
 
-* <span style ="color:#e66b00 "> Accessing your BCIT Course Schedule </span>
-* <span style ="color:#e66b00 "> Changing your Email Signature </span>
-* <span style ="color:#e66b00 "> Forwarding your BCIT Email to a Different Email </span>
+* <span style ="color:#e66b00 "> Accessing BCIT Course Schedule </span>
+* <span style ="color:#e66b00 "> Changing Email Signature </span>
+* <span style ="color:#e66b00 "> Forwarding BCIT Email </span>
 
 
 ## Typographical Conventions

@@ -1,4 +1,4 @@
-# Changing your Email Signature
+# Changing BCIT Email Signature
 
 
 ## Overview

@@ -1,4 +1,4 @@
-# Forwarding your BCIT Email to a Different Email
+# Forwarding BCIT Email
 
 ## Overview
 
