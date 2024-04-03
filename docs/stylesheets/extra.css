@@ -7,3 +7,14 @@
 #staremoji {
   list-style-type: none;
 }
+
+/* Increase table font size */
+table {
+  font-size: 17px !important;
+}
+
+/* Increase table width */
+table {
+  width: 200% !important;
+  height: 150% !important;
+}
