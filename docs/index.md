@@ -42,7 +42,7 @@ The main sections of this documentation are summarized below:
    example: 
     - **Click on the "Continue" button**
     - **Press the Enter key**
-2. Instructions that require you to type in information will be italicized. For example:
+2. Instructions that require you to type in information will be <u>underlined</u>. For example:
     - <u>Enter your information</u>
 
 ## Notes, Danger, and Success Messages
