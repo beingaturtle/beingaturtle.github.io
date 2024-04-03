@@ -57,4 +57,4 @@ Throughout the documentation, you'll encounter message blocks that alert you wit
 That's it! Begin learning how to access your BCIT course schedule.
 <br>
 <br>
-[**Accessing BCIT Course Schedule**](task1.md)
+<a href="task1" style = "color: #e66b00">**Accessing BCIT Course Schedule**</a>
