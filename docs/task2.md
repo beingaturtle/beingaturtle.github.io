@@ -6,7 +6,7 @@
 In this section, we will walk you through how to create a BCIT email signature which will always be attached at 
 the bottom of every email you send. Creating an email signature serves several purposes<sup>[1](#fn1)</sup>:
 
-- Increased Professionalism
+- Increases Professionalism
 - Shows Personality
 - Creates Personal Branding
 
