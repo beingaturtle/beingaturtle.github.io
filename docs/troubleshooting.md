@@ -1,6 +1,6 @@
 # Troubleshooting
 
-| Symptoms                      | Probable Cause                            | Action                                                                                                                                                                                                                      
+| Issues                        | Probable Cause                            | Solution                                                                                                                                                                                                                      
 |-------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Access Denied                 | Entering the wrong credentials many times | Wait for about 15 minutes to try again                                                                                                                                                                                      |
 | E-mail Forwarding not working | Incorrectly typed e-mail address          | Double check the e-mail address you're forwarding to                                                                                                                                                                        |
