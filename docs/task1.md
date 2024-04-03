@@ -2,7 +2,9 @@
 
 ## Overview 
 
-In this section, we will focus on helping you access your course schedule using MyBCIT website. This website will serve 
+In this section, we will focus on helping you access your course schedule using [myBCIT](https://my.bcit.ca/) website. This website 
+will 
+serve 
 as your main way of accessing your school related information. By the end of this section you will know how to 
 access your BCIT course schedule using the myBCIT Website.
 

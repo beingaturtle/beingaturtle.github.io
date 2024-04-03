@@ -40,7 +40,7 @@ Before creating your e-mail signature, you will need to login to the myBCIT webs
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S5.png){ loading=lazy } </figure>
 
     !!! Note
-        You will now be directed to the MyBCIT Home Tab with your student name shown in the upper right of the screen
+        You will now be directed to the myBCIT Home Tab with your student name shown in the upper right of the screen
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S5.1.png){ loading=lazy } </figure>
 
