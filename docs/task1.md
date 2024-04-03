@@ -4,7 +4,9 @@
 
 In this section, we will focus on helping you access your course schedule using MyBCIT website. This website will serve 
 as your main way of accessing your school related information. By the end of this section you will know how to access your course
-schedule in BCIT using BCIT Website
+schedule in BCIT using BCIT Website.
+
+## Steps to login
 
 1. Ensure you have a BCIT Account
 <br>
@@ -32,23 +34,23 @@ schedule in BCIT using BCIT Website
         You will now be directed to the myBCIT home page with your student name shown in the upper right of the 
         screen
 
-5. Find the “Online Self Service” category on the right side of the myBCIT website
+## Navigate to Course Schedule
+1. Find the “Online Self Service” category on the right side of the myBCIT website
     <figure markdown = "span">![Online Self Service](./assets/task1/T1_S1.png){ loading=lazy} 
    </figure>
 
-
-6. In the “Student Self Service” header, **click on “Check Course Schedules”**
+2. In the “Student Self Service” header, **click on “Check Course Schedules”**
     <figure markdown = "span">![Student Self Service](./assets/task1/T1_S2.png){ loading=lazy} 
    </figure>
 
-7. Read “Course Schedule Information”
+3. Read “Course Schedule Information”
     <figure markdown = "span">![Read Course Info](./assets/task1/T1_S3.png){ loading=lazy} 
    </figure>
 
-8. **Click on the “I have read the information above” checkbox to show a checkmark**
+4. **Click on the “I have read the information above” checkbox to show a checkmark**
     <figure markdown = "span">![Checkbox](./assets/task1/T1_S4.png){ loading=lazy} 
    </figure>
-9. **Click on the "Continue" Button**
+5. **Click on the "Continue" Button**
     <figure markdown = "span">![Continue](./assets/task1/T1_S5.png){ loading=lazy} 
    </figure>
 
@@ -67,3 +69,6 @@ By the end of this section, you will have learned the following:
 </ul>
 
 Excellent work. Feel free to proceed to the next step!
+<br>
+<br>
+[**Changing BCIT Email Signature**](task2.md)

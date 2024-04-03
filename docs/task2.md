@@ -103,4 +103,7 @@ By the end of this section, you will have learned the following:
     <li id="staremoji"> ⭐&nbsp How to access your BCIT Email from MyBCIT website</li>
 </ul>
 
-Excellent work. Feel free to proceed to the next
+Wonderful job! Feel free to proceed to the next step!
+<br>
+<br>
+[**Forwarding BCIT Email**](task3.md)
