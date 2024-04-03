@@ -19,8 +19,6 @@ Before accessing your BCIT course schedule, you will need to login to the myBCIT
    Page
      <figure markdown = "span"> ![BCIT website](./assets/task1/T1_bcit.png){ loading=lazy } </figure>
 
-
-
     !!! Note 
         BCIT recommends using Google Chrome, Microsoft Edge, or Mozilla Firefox as the web browser
 
@@ -29,7 +27,6 @@ Before accessing your BCIT course schedule, you will need to login to the myBCIT
 
 4. **Click the "SIGN IN" button**
     <figure markdown = "span"> ![BCIT signin](./assets/task1/T1_signin.png){ loading=lazy } </figure>
-
 
     !!! Note
         You will now be directed to the myBCIT home page with your student name shown in the upper right of the 
