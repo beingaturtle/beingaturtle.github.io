@@ -48,7 +48,8 @@ Before creating your email signature, you will need to login to the myBCIT websi
     !!! Danger
         Repeatedly signing in with wrong credentials can cause the BCIT Website to block you devices from logging in
 
-5. **Click "My Mail”** which is seen on the left of your student name
+## Navigate to BCIT Mail
+1. **Click "My Mail”** which is seen on the left of your student name
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S6.png){ loading=lazy } </figure>
 
@@ -57,7 +58,9 @@ Before creating your email signature, you will need to login to the myBCIT websi
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S6.1.png){ loading=lazy } </figure>
 
-6. **Click “Settings”,** found on the upper right of the website
+## Create Email Signature
+
+1. **Click “Settings”,** found on the upper right of the website
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S7.png){ loading=lazy } </figure>
 
@@ -66,11 +69,11 @@ Before creating your email signature, you will need to login to the myBCIT websi
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S7.1.png){ loading=lazy } </figure>
 
-7. **Click “Identities”** under the 'Settings' header
+2. **Click “Identities”** under the 'Settings' header
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S8.png){ loading=lazy } </figure>
 
-8. **Click your Name** found under the 'Identities' header
+3. **Click your Name** found under the 'Identities' header
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S9.png){ loading=lazy } </figure>
 
@@ -79,14 +82,14 @@ Before creating your email signature, you will need to login to the myBCIT websi
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S9.1.png){ loading=lazy } </figure>
 
-9. **Click on the Textbox** beside 'Signature' to start editing it
+4. **Click on the Textbox** beside 'Signature' to start editing it
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S10.png){ loading=lazy } </figure>
 
     !!! Note
         You can edit your email signature anyway you'd like and feel free to refer to our sample signature
 
-10. **Click the blue button “Save”**, after you finish editing to save.
+5. **Click the blue button “Save”**, after you finish editing to save.
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S11.png){ loading=lazy } </figure>
 
