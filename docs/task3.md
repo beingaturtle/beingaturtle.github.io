@@ -2,8 +2,19 @@
 
 ## Overview
 
-In this section, we will walk you in setting up your BCIT email forwarding to other email you may own. By the end of this
-section the email you have used during the walkthrough will receive email from your BCIT email inbox.
+In this section, we will walk you through how to enable email forwarding from your BCIT email inbox to a desired emails.
+Enabling this feature allows you faster access for your emails and save you time<sup>[1](#fn1)</sup>:
+
+- Better Productivity
+- Automation
+- Organize
+
+These are some of the primary benefits that using email forwarding can provide. Whether you're a student or someone working this will help you save lots of time having an ease of access to your emails.
+
+By the end of this section the email you have used during this walkthrough will receive emails forwarded from your BCIT email inbox.
+
+## Steps to Login to myBCIT Website
+Before creating your email signature, you will need to login to the myBCIT website:
 
 1. Ensure you have a BCIT Account <br>
     Example:
@@ -33,22 +44,25 @@ section the email you have used during the walkthrough will receive email from y
     !!! Danger
         Repeatedly signing in with wrong credentials can cause the BCIT Website to block your devices from logging in
 
-5. **Click on “My Mail”** at the top-right corner
+## Navigate to BCIT Mail 
+1. **Click on “My Mail”** at the top-right corner
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S6.png){ loading=lazy } </figure>
 
     !!! Note
         You will be directed to your BCIT Mail Inbox Page in a new tab
 
-6. **Click** “Settings”, found on the upper right of the website
+## Creating a Filter Set
+1. **Click** “Settings”, found on the upper right of the website
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S7.png){ loading=lazy } </figure>
 
-7. **Click** on “Filter”, found on the left side of the page
+
+2. **Click** on “Filter”, found on the left side of the page
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S8.png){ loading=lazy } </figure>
 
-8. **Click on +** found under the filters set section
+3. **Click on +** found under the filters set section
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S9.png){ loading=lazy } </figure>
 
@@ -57,7 +71,7 @@ section the email you have used during the walkthrough will receive email from y
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S9.1.png){ loading=lazy } </figure>
 
-9. <u>**Type "Forwarding" for Filters Set Name**</u> and **select and click none for filters**
+4. <u>**Type "Forwarding" for Filters Set Name**</u> and **select and click none for filters**
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S10.png){ loading=lazy } </figure>
 
@@ -65,30 +79,31 @@ section the email you have used during the walkthrough will receive email from y
     - This will create a filter set named Forwarding under filter sets
     - which allows you to group the different filters you want for your emails
 
-10. Find and **click the newly created filter set name "Forwarding"** under the "Filter Sets"
+5. Find and **click the newly created filter set name "Forwarding"** under the "Filter Sets"
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S11.png){ loading=lazy } </figure>
 
-11. **Click on the +** under "filters"
+## Enabling Email Forwarding
+1. **Click on the +** under "filters"
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S12.png){ loading=lazy } </figure>
 
     !!! Note
         This will open "Filter Definition" section
 
-12. <u>**Type "Forwarding to Gmail"**</u> for Filter name and Select "all messages"
+2. <u>**Type "Forwarding to Gmail"**</u> for Filter name and Select "all messages"
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S13.png){ loading=lazy } </figure>
 
-13. **Click** on the drop-down menu and select “Redirect message to”
+3. **Click** on the drop-down menu and select “Redirect message to”
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S14.png){ loading=lazy } </figure>
 
-14. <u>**Type the email address**</u> that you want to forward your incoming BCIT Emails to
+4. <u>**Type the email address**</u> that you want to forward your incoming BCIT Emails to
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S15.png){ loading=lazy } </figure>
 
-15. **Click** on the “Save” button
+5. **Click** on the “Save” button
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S16.png){ loading=lazy } </figure>
 
@@ -105,7 +120,11 @@ By the end of this section, you will have learned the following:
 </ul>
 
 ## Next Steps
+
 You're an expert now! The next page has information to help troubleshoot any issues you may have encountered.
 <br>
 <br>
 [**Troubleshooting**](troubleshooting.md)
+
+***
+<a id="fn1">[1. The benefits of using email forwarding](https://ca.indeed.com/career-advice/career-development/how-to-forward-email#:~:text=Benefits%20of%20email%20forwarding)</a>
