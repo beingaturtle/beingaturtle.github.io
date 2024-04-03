@@ -14,8 +14,9 @@ schedule in BCIT using BCIT Website
 
 2. <u>**Type in the search bar** <https://my.bcit.ca></u> and **press the Enter key**. You will be directed to myBCIT Login 
    Page
-!!! note
-    BCIT recommends using Google Chrome, Microsoft Edge, or Mozilla Firefox as the web browser
+
+    !!! Note 
+        BCIT recommends using Google Chrome, Microsoft Edge, or Mozilla Firefox as the web browser
 
 3. <u>Type in your BCIT account credentials</u>
     <!-- Email: <rmaceda1@mybcit.ca>
@@ -27,8 +28,13 @@ schedule in BCIT using BCIT Website
     You will now be directed to the myBCIT home page with your student name shown in the upper right of the screen
 
 5. Find the “Online Self Service” category on the right side of the myBCIT website
+    <figure markdown = "span">![Online Self Service](./assets/task1/T1_S1.png){: style="height:400px;width:750px"} 
+   </figure>
+
 
 6. In the “Student Self Service” header, **click on “Check Course Schedules”**
+    <figure markdown = "span">![Student Self Service](./assets/task1/T1_S2.png){: style="height:400px;width:750px"} 
+   </figure>
 
 7. Read “Course Schedule Information”
 
