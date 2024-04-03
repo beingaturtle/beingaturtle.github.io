@@ -14,14 +14,14 @@ section the email you have used during the walkthrough will receive email from y
     > !!! Note
     > BCIT recommends using Chrome as your main web browser
 
-3. Type in the Search bar <https://my.bcit.ca> and click Enter, you will be directed to BCIT Login Page
+3. *Type in the Search bar <https://my.bcit.ca>* and *click Enter*, you will be directed to BCIT Login Page
 
-4. Type in your Account Credentials
+4. *Type in your Account Credentials*
     <!-- Email: <rmaceda1@mybcit.ca>
     Password: 123456789 
     // Maybe we can remove this -->
 
-5. Left Click the "SIGN IN" button
+5. **Click the "SIGN IN" button**
 
     !!! Note
         You will now be directed to the MyBCIT Home Tab with your student name shown in the upper right of the screen
@@ -29,40 +29,40 @@ section the email you have used during the walkthrough will receive email from y
     !!! Danger
         Repeatedly signing in with wrong credentials can cause the BCIT Website to block your devices from logging in
 
-6. Left click on “My Mail” at the top-right corner
+6. **Click on “My Mail”** at the top-right corner
 
     !!! Note
         You will be directed to your BCIT Mail Inbox Page in a new tab
 
-7. Left click “Settings”, found on the upper right of the website
+7. **Click** “Settings”, found on the upper right of the website
 
-8. Left click on “Filter”, found on the left side of the page
+8. **Click** on “Filter”, found on the left side of the page
 
-9. Left click on "+", found under the filters set section
+9. **Click** on "+", found under the filters set section
 
     !!! Note
         This will open the new filters set in the right side
 
-10. Type Forwarding for "Filters Set Name" and Select None for "Filters"
+10. *Type "Forwarding" for Filters Set Name* and **select and click none for filters**
 
     !!! Note
     - This will create a filter set named Forwarding under filter sets
     - which allows you to group the different filters you want for your emails
 
-11. Select the newly created filter set name "Forwarding" under the "Filter Sets"
+11. Find and **click the newly created filter set name "Forwarding"** under the "Filter Sets"
 
-12. Left click on the "+" under "filters"
+12. **Click** on the "+" under "filters"
 
     !!! Note
         This will open "Filter Definition" section
 
-13. Type "Forwarding to Gmail" for Filter name and Select "all messages"
+13. *Type "Forwarding to Gmail"* for Filter name and Select "all messages"
 
-14. Left click on the drop-down menu and select “Redirect message to”
+14. **Click** on the drop-down menu and select “Redirect message to”
 
-15. Type in the email address that you want to forward your incoming BCIT Emails to
+15. *Type the email address* that you want to forward your incoming BCIT Emails to
 
-16. Click on the “Save” button
+16. **Click** on the “Save” button
 
     !!! Note
         - The newly created filter profile will appear under filters <br>
