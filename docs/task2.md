@@ -10,25 +10,18 @@ By the end of this section emails you have sent using the BCIT email will have t
        - Email: <Looney@my.bcit.ca>
        - Password: 1234562
 
-2. Open the Web Browser you want to use 
-
-    <figure markdown = "span">![Image title](./assets/task2/T2_S2.png){: style="height:250px;width:250px"} </figure>
-
-    !!! Note
-        BCIT recommends using Chrome,Firefox, or Edge as your main web browser
-
-3. <u>**Type in the Search bar <https://my.bcit.ca>**</u> and **click Enter**, you will be directed to BCIT Login Page
+2. <u>**Type in the Search bar <https://my.bcit.ca>**</u> and **click Enter**, you will be directed to BCIT Login Page
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S3.png){ loading=lazy } </figure>
 
-4. <u>**Type in your Account Credentials**</u>
+3. <u>**Type in your Account Credentials**</u>
     <!-- Email: <rmaceda1@mybcit.ca>
     Password: 123456789 
     // Maybe we can remove this -->
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S4.png){ loading=lazy } </figure>
 
-5. **Click the "SIGN IN" button**
+4. **Click the "SIGN IN" button**
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S5.png){ loading=lazy } </figure>
 
@@ -40,7 +33,7 @@ By the end of this section emails you have sent using the BCIT email will have t
     !!! Danger
         Repeatedly signing in with wrong credentials can cause the BCIT Website to block you devices from logging in
 
-6. **Click "My Mail”** which is seen on the left of your student name
+5. **Click "My Mail”** which is seen on the left of your student name
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S6.png){ loading=lazy } </figure>
 
@@ -49,7 +42,7 @@ By the end of this section emails you have sent using the BCIT email will have t
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S6.1.png){ loading=lazy } </figure>
 
-7. **Click “Settings”,** found on the upper right of the website
+6. **Click “Settings”,** found on the upper right of the website
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S7.png){ loading=lazy } </figure>
 
@@ -58,11 +51,11 @@ By the end of this section emails you have sent using the BCIT email will have t
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S7.1.png){ loading=lazy } </figure>
 
-8. **Click “Identities”** under the Settings header
+7. **Click “Identities”** under the Settings header
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S8.png){ loading=lazy } </figure>
 
-9. **Click your Name** found under the Identities header
+8. **Click your Name** found under the Identities header
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S9.png){ loading=lazy } </figure>
 
@@ -71,11 +64,11 @@ By the end of this section emails you have sent using the BCIT email will have t
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S9.1.png){ loading=lazy } </figure>
 
-10. **Click on the Textbox** beside the Signature to start editing it
+9. **Click on the Textbox** beside the Signature to start editing it
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S10.png){ loading=lazy } </figure>
 
-11. **Click the blue button “Save”**, after you finish editing to save.
+10. **Click the blue button “Save”**, after you finish editing to save.
 
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S11.png){ loading=lazy } </figure>
 

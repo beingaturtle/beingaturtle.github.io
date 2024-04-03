@@ -10,25 +10,18 @@ section the email you have used during the walkthrough will receive email from y
     - Email: <Looney@my.bcit.ca>
     - Password: 1234562
 
-2. Open the Web Browser you want to use
-
-    !!! Note
-        BCIT recommends using Chrome as your main web browser
-
-    <figure markdown = "span">![Image title](./assets/task2/T2_S2.png){: style="height:250px;width:250px"} </figure>
-
-3. <u>**Type in the Search bar <https://my.bcit.ca>**</u> and *click Enter*, you will be directed to BCIT Login Page
+2. <u>**Type in the Search bar <https://my.bcit.ca>**</u> and *click Enter*, you will be directed to BCIT Login Page
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S3.png){ loading=lazy } </figure>
 
-4. <u>**Type in your Account Credentials**</u>
+3. <u>**Type in your Account Credentials**</u>
     <!-- Email: <rmaceda1@mybcit.ca>
     Password: 123456789 
     // Maybe we can remove this -->
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S4.png){ loading=lazy } </figure>
 
-5. **Click the "SIGN IN" button**
+4. **Click the "SIGN IN" button**
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S5.png){ loading=lazy } </figure>
 
@@ -40,22 +33,22 @@ section the email you have used during the walkthrough will receive email from y
     !!! Danger
         Repeatedly signing in with wrong credentials can cause the BCIT Website to block your devices from logging in
 
-6. **Click on “My Mail”** at the top-right corner
+5. **Click on “My Mail”** at the top-right corner
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S6.png){ loading=lazy } </figure>
 
     !!! Note
         You will be directed to your BCIT Mail Inbox Page in a new tab
 
-7. **Click** “Settings”, found on the upper right of the website
+6. **Click** “Settings”, found on the upper right of the website
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S7.png){ loading=lazy } </figure>
 
-8. **Click** on “Filter”, found on the left side of the page
+7. **Click** on “Filter”, found on the left side of the page
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S8.png){ loading=lazy } </figure>
 
-9. **Click on +** found under the filters set section
+8. **Click on +** found under the filters set section
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S9.png){ loading=lazy } </figure>
 
@@ -64,7 +57,7 @@ section the email you have used during the walkthrough will receive email from y
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S9.1.png){ loading=lazy } </figure>
 
-10. <u>**Type "Forwarding" for Filters Set Name**</u> and **select and click none for filters**
+9. <u>**Type "Forwarding" for Filters Set Name**</u> and **select and click none for filters**
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S10.png){ loading=lazy } </figure>
 
@@ -72,30 +65,30 @@ section the email you have used during the walkthrough will receive email from y
     - This will create a filter set named Forwarding under filter sets
     - which allows you to group the different filters you want for your emails
 
-11. Find and **click the newly created filter set name "Forwarding"** under the "Filter Sets"
+10. Find and **click the newly created filter set name "Forwarding"** under the "Filter Sets"
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S11.png){ loading=lazy } </figure>
 
-12. **Click on the +** under "filters"
+11. **Click on the +** under "filters"
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S12.png){ loading=lazy } </figure>
 
     !!! Note
         This will open "Filter Definition" section
 
-13. <u>**Type "Forwarding to Gmail"**</u> for Filter name and Select "all messages"
+12. <u>**Type "Forwarding to Gmail"**</u> for Filter name and Select "all messages"
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S13.png){ loading=lazy } </figure>
 
-14. **Click** on the drop-down menu and select “Redirect message to”
+13. **Click** on the drop-down menu and select “Redirect message to”
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S14.png){ loading=lazy } </figure>
 
-15. <u>**Type the email address**</u> that you want to forward your incoming BCIT Emails to
+14. <u>**Type the email address**</u> that you want to forward your incoming BCIT Emails to
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S15.png){ loading=lazy } </figure>
 
-16. **Click** on the “Save” button
+15. **Click** on the “Save” button
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S16.png){ loading=lazy } </figure>
 
