@@ -11,59 +11,93 @@ section the email you have used during the walkthrough will receive email from y
     - Password: 1234562
 
 2. Open the Web Browser you want to use
-    > !!! Note
-    > BCIT recommends using Chrome as your main web browser
+!!! Note
+    BCIT recommends using Chrome as your main web browser
+
+<figure markdown = "span">![Image title](./assets/task2/T2_S2.png){: style="height:250px;width:250px"} </figure>
 
 3. *Type in the Search bar <https://my.bcit.ca>* and *click Enter*, you will be directed to BCIT Login Page
+
+<figure markdown = "span"> ![Image title](./assets/task3/T3_S3.png){ loading=lazy } </figure>
 
 4. *Type in your Account Credentials*
     <!-- Email: <rmaceda1@mybcit.ca>
     Password: 123456789 
     // Maybe we can remove this -->
 
+<figure markdown = "span"> ![Image title](./assets/task3/T3_S4.png){ loading=lazy } </figure>
+
 5. **Click the "SIGN IN" button**
 
-    !!! Note
-        You will now be directed to the MyBCIT Home Tab with your student name shown in the upper right of the screen
+<figure markdown = "span"> ![Image title](./assets/task3/T3_S5.png){ loading=lazy } </figure>
 
-    !!! Danger
-        Repeatedly signing in with wrong credentials can cause the BCIT Website to block your devices from logging in
+!!! Note
+    You will now be directed to the MyBCIT Home Tab with your student name shown in the upper right of the screen
+
+<figure markdown = "span"> ![Image title](./assets/task3/T3_S5.1.png){ loading=lazy } </figure>
+
+!!! Danger
+    Repeatedly signing in with wrong credentials can cause the BCIT Website to block your devices from logging in
 
 6. **Click on “My Mail”** at the top-right corner
+
+<figure markdown = "span"> ![Image title](./assets/task3/T3_S6.png){ loading=lazy } </figure>
 
     !!! Note
         You will be directed to your BCIT Mail Inbox Page in a new tab
 
 7. **Click** “Settings”, found on the upper right of the website
 
+<figure markdown = "span"> ![Image title](./assets/task3/T3_S7.png){ loading=lazy } </figure>
+
 8. **Click** on “Filter”, found on the left side of the page
+
+<figure markdown = "span"> ![Image title](./assets/task3/T3_S8.png){ loading=lazy } </figure>
 
 9. **Click** on "+", found under the filters set section
 
-    !!! Note
-        This will open the new filters set in the right side
+<figure markdown = "span"> ![Image title](./assets/task3/T3_S9.png){ loading=lazy } </figure>
+
+!!! Note
+    This will open the new filters set in the right side
+
+<figure markdown = "span"> ![Image title](./assets/task3/T3_S9.1.png){ loading=lazy } </figure>
 
 10. *Type "Forwarding" for Filters Set Name* and **select and click none for filters**
 
-    !!! Note
-    - This will create a filter set named Forwarding under filter sets
-    - which allows you to group the different filters you want for your emails
+<figure markdown = "span"> ![Image title](./assets/task3/T3_S10.png){ loading=lazy } </figure>
+
+!!! Note
+- This will create a filter set named Forwarding under filter sets
+- which allows you to group the different filters you want for your emails
 
 11. Find and **click the newly created filter set name "Forwarding"** under the "Filter Sets"
 
+<figure markdown = "span"> ![Image title](./assets/task3/T3_S11.png){ loading=lazy } </figure>
+
 12. **Click** on the "+" under "filters"
 
-    !!! Note
-        This will open "Filter Definition" section
+<figure markdown = "span"> ![Image title](./assets/task3/T3_S12.png){ loading=lazy } </figure>
+
+!!! Note
+    This will open "Filter Definition" section
 
 13. *Type "Forwarding to Gmail"* for Filter name and Select "all messages"
 
+<figure markdown = "span"> ![Image title](./assets/task3/T3_S13.png){ loading=lazy } </figure>
+
 14. **Click** on the drop-down menu and select “Redirect message to”
+
+<figure markdown = "span"> ![Image title](./assets/task3/T3_S14.png){ loading=lazy } </figure>
 
 15. *Type the email address* that you want to forward your incoming BCIT Emails to
 
+<figure markdown = "span"> ![Image title](./assets/task3/T3_S15.png){ loading=lazy } </figure>
+
 16. **Click** on the “Save” button
 
-    !!! Note
-        - The newly created filter profile will appear under filters <br>
-        - Now, all e-mails sent to your myBCIT e-mail address will automatically be forwarded to the e-mail address(es) you specified
+<figure markdown = "span"> ![Image title](./assets/task3/T3_S16.png){ loading=lazy } </figure>
+
+!!! Note
+    - The newly created filter profile will appear under filters <br>
+    - Now, all e-mails sent to your myBCIT e-mail address will automatically be forwarded to the e-mail address(es) you specified
