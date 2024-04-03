@@ -2,19 +2,20 @@
 
 ## Overview
 
-In this section, we will walk you through how to enable email forwarding from your BCIT email inbox to a desired emails.
-Enabling this feature allows you faster access for your emails and save you time<sup>[1](#fn1)</sup>:
+In this section, we will walk you through how to enable e-mail forwarding from your BCIT e-mail inbox to a desired emails.
+Enabling this feature allows you faster access for your e-mails and save you time<sup>[1](#fn1)</sup>:
 
 - Better Productivity
 - Automation
 - Organize
 
-These are some of the primary benefits that using email forwarding can provide. Whether you're a student or someone working this will help you save lots of time having an ease of access to your emails.
+These are some of the primary benefits that using e-mail forwarding can provide. Whether you're a student or someone working this will help you save lots of time having an ease of access to your e-mails.
 
-By the end of this section the email you have used during this walkthrough will receive emails forwarded from your BCIT email inbox.
+By the end of this section the e-mail you have used during this walkthrough will receive e-mails forwarded from your BCIT e-mail inbox.
 
 ## Steps to Login to myBCIT Website
-Before creating your email signature, you will need to login to the myBCIT website:
+
+Before creating your e-mail signature, you will need to login to the myBCIT website:
 
 1. Ensure you have a BCIT Account <br>
     Example:
@@ -44,7 +45,8 @@ Before creating your email signature, you will need to login to the myBCIT websi
     !!! Danger
         Repeatedly signing in with wrong credentials can cause the BCIT Website to block your devices from logging in
 
-## Navigate to BCIT Mail 
+## Navigate to BCIT Mail
+
 1. **Click on “My Mail”** at the top-right corner
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S6.png){ loading=lazy } </figure>
@@ -53,10 +55,10 @@ Before creating your email signature, you will need to login to the myBCIT websi
         You will be directed to your BCIT Mail Inbox Page in a new tab
 
 ## Creating a Filter Set
+
 1. **Click** “Settings”, found on the upper right of the website
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S7.png){ loading=lazy } </figure>
-
 
 2. **Click** on “Filter”, found on the left side of the page
 
@@ -77,13 +79,14 @@ Before creating your email signature, you will need to login to the myBCIT websi
 
     !!! Note
     - This will create a filter set named Forwarding under filter sets
-    - which allows you to group the different filters you want for your emails
+    - which allows you to group the different filters you want for your e-mails
 
 5. Find and **click the newly created filter set name "Forwarding"** under the "Filter Sets"
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S11.png){ loading=lazy } </figure>
 
 ## Enabling Email Forwarding
+
 1. **Click on the +** under "filters"
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S12.png){ loading=lazy } </figure>
@@ -99,7 +102,7 @@ Before creating your email signature, you will need to login to the myBCIT websi
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S14.png){ loading=lazy } </figure>
 
-4. <u>**Type the email address**</u> that you want to forward your incoming BCIT Emails to
+4. <u>**Type the e-mail address**</u> that you want to forward your incoming BCIT Emails to
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S15.png){ loading=lazy } </figure>
 
@@ -115,7 +118,7 @@ Before creating your email signature, you will need to login to the myBCIT websi
 
 By the end of this section, you will have learned the following:
 <ul>
-    <li id="staremoji"> ⭐&nbsp How to forward emails receive in your BCIT inbox to a different email</li>
+    <li id="staremoji"> ⭐&nbsp How to forward emails receive in your BCIT inbox to a different e-mail</li>
     <li id="staremoji"> ⭐&nbsp How to create filter sets and join different filters together</li>
 </ul>
 
