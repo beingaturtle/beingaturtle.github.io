@@ -37,11 +37,18 @@ schedule in BCIT using BCIT Website
    </figure>
 
 7. Read “Course Schedule Information”
+    <figure markdown = "span">![Read Course Info](./assets/task1/T1_S3.png){: style="height:400px;width:750px"} 
+   </figure>
 
 8. **Click on the “I have read the information above” checkbox to show a checkmark**
-
+    <figure markdown = "span">![Checkbox](./assets/task1/T1_S4.png){: style="height:400px;width:750px"} 
+   </figure>
 9. **Click on the "Continue" Button**
+    <figure markdown = "span">![Continue](./assets/task1/T1_S5.png){: style="height:400px;width:750px"} 
+   </figure>
 
 !!! success
     Great job! You have access to your course schedule. You will find your course name and number, room number, and 
     course times
+    <figure markdown = "span">![Course Schedule](./assets/task1/T1_S6.png){: style="height:400px;width:750px"} 
+    </figure>
