@@ -2,20 +2,20 @@
 
 ## Overview
 
-In this section, we will walk you through how to enable e-mail forwarding from your BCIT e-mail inbox to a desired emails.
-Enabling this feature allows you faster access for your e-mails and save you time<sup>[1](#fn1)</sup>:
+In this section, we will walk you through how to enable e-mail forwarding from your BCIT e-mail to a more frequently 
+used e-mail. By enabling this feature, you'll enjoy <span style ="color:#e66b00"> quicker access to your BCIT 
+e-mails and minimizes the risk of missing important e-mails. </span> Additional benefits include:<sup>[1](#fn1)
+</sup>:
 
-- Better Productivity
-- Automation
-- Organize
+- Enhanced Productivity
+- Centralized Mailbox
 
-These are some of the primary benefits that using e-mail forwarding can provide. Whether you're a student or someone working this will help you save lots of time having an ease of access to your e-mails.
-
-By the end of this section the e-mail you have used during this walkthrough will receive e-mails forwarded from your BCIT e-mail inbox.
+By the end of this section, you'll be comfortable setting up a forwarding system from your BCIT e-mail to your desired 
+e-mail address(es).
 
 ## Steps to Login to myBCIT Website
 
-Before creating your e-mail signature, you will need to login to the myBCIT website:
+Before forwarding your e-mail, you will need to login to the myBCIT website:
 
 1. Ensure you have a BCIT Account <br>
     Example:
@@ -118,7 +118,7 @@ Before creating your e-mail signature, you will need to login to the myBCIT webs
 
 By the end of this section, you will have learned the following:
 <ul>
-    <li id="staremoji"> ⭐&nbsp How to forward emails receive in your BCIT inbox to a different e-mail</li>
+    <li id="staremoji"> ⭐&nbsp How to forward e-mails from your BCIT inbox to a different e-mail address</li>
     <li id="staremoji"> ⭐&nbsp How to create filter sets and join different filters together</li>
 </ul>
 

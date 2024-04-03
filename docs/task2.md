@@ -3,8 +3,9 @@
 
 ## Overview
 
-In this section, we will walk you through how to create a BCIT e-mail signature which will always be attached at 
-the bottom of every e-mail you send. Creating an e-mail signature serves several purposes<sup>[1](#fn1)</sup>:
+In this section, you'll learn how to create a BCIT e-mail signature, which will be automatically inserted at 
+the bottom of every e-mail you send. <span style ="color:#e66b00"> Creating an e-mail signature serves several 
+purposes</span><sup>[1](#fn1)</sup>:
 
 - Increases Professionalism
 - Shows Personality
@@ -121,8 +122,8 @@ Test to ensure the signature is seen when you send a e-mail
 
 By the end of this section, you will have learned the following:
 <ul>
-    <li id="staremoji"> ⭐&nbsp How to create your e-mail signature for BCIT E-mail</li>
-    <li id="staremoji"> ⭐&nbsp How to access your BCIT E-mail from MyBCIT website</li>
+    <li id="staremoji"> ⭐&nbsp How to create your e-mail signature for your BCIT E-mail</li>
+    <li id="staremoji"> ⭐&nbsp How to access your BCIT E-mail from myBCIT website</li>
 </ul>
 
 ## Next Steps
