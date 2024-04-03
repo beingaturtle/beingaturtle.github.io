@@ -67,8 +67,8 @@ Before creating your email signature, you will need to login to the myBCIT websi
 
     !!! Note
         You will now be directed to the “Settings” page
+        <figure markdown = "span"> ![Image title](./assets/task2/T2_S7.1.png){ loading=lazy } </figure>
 
-    <figure markdown = "span"> ![Image title](./assets/task2/T2_S7.1.png){ loading=lazy } </figure>
 
 2. **Click “Identities”** under the 'Settings' header
 
@@ -80,8 +80,9 @@ Before creating your email signature, you will need to login to the myBCIT websi
 
     !!! Note
         It will open an 'Edit Identity' page on the right side of your webpage
+        <figure markdown = "span"> ![Image title](./assets/task2/T2_S9.1.png){ loading=lazy } </figure>
 
-    <figure markdown = "span"> ![Image title](./assets/task2/T2_S9.1.png){ loading=lazy } </figure>
+
 
 4. **Click on the Textbox** beside 'Signature' to start editing it
 
