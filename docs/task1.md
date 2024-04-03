@@ -68,7 +68,8 @@ By the end of this section, you will have learned the following:
     <li id="staremoji"> ⭐&nbsp How to access and view your course schedule </li>
 </ul>
 
-Excellent work. Feel free to proceed to the next step!
+## Next Steps
+Excellent work! Feel free to proceed to the next step.
 <br>
 <br>
 [**Changing BCIT Email Signature**](task2.md)

@@ -54,3 +54,9 @@ Throughout the documentation, you'll encounter message blocks that alert you wit
     Provides additional information regarding a specific task.
 !!! success
     Indicates what a successful task looks like.
+
+## Next Steps
+That's it! Begin learning how to access your BCIT course schedule.
+<br>
+<br>
+[**Accessing BCIT Course Schedule**](task1.md)
