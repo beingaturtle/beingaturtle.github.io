@@ -4,7 +4,7 @@
 
 In this section, we will walk you through how to enable e-mail forwarding from your BCIT e-mail to a more frequently 
 used e-mail. By enabling this feature, you'll enjoy quicker access to your BCIT 
-e-mails and minimizes the risk of missing important e-mails. Additional benefits include<sup><a href="#fn1" style = "color: #e66b00">1</a></sup>
+e-mails and minimizes the risk of missing important e-mails. Additional benefits include<sup>[1](#fn1)</sup>
 </sup>:
 
 - Enhanced Productivity
@@ -19,19 +19,16 @@ Before forwarding your e-mail, you will need to login to the myBCIT website:
 
 1. Ensure you have a BCIT Account <br>
     Example:
-    - Email: <a href="" style = "color: #e66b00">Looney@my.bcit.ca</a>
+    - E-mail: <Looney@my.bcit.ca>
     - Password: 1234562
 
-2. <u>Type in the search bar: <a href = "https://my.bcit.ca/" style = "color: #e66b00">https://my.bcit.ca/</a></u> 
+2. <u>Type in the search bar: [https://my.bcit.ca/](https://my.bcit.ca/)</a></u> 
    and **press the Enter key**. You will be directed to myBCIT Login 
    Page
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S3.png){ loading=lazy } </figure>
 
 3. <u>**Type in your Account Credentials**</u>
-    <!-- Email: <rmaceda1@mybcit.ca>
-    Password: 123456789 
-    // Maybe we can remove this -->
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S4.png){ loading=lazy } </figure>
 
@@ -129,8 +126,8 @@ By the end of this section, you will have learned the following:
 You're an expert now! The next page has information to help troubleshoot any issues you may have encountered.
 <br>
 <br>
-<a href = "troubleshooting" style = "color: #e66b00"> **Troubleshooting** </a>
+**[Troubleshooting](troubleshooting.md)** </a>
 
 ***
-<a id="fn1" style = "color: #e66b00" href = "https://ca.indeed.
-com/career-advice/career-development/how-to-forward-email#:~:text=Benefits%20of%20email%20forwarding">1. The benefits of using email forwarding</a>
+<a id="fn1"> [1. The benefits of using email forwarding](https://ca.indeed.
+com/career-advice/career-development/how-to-forward-email#:~:text=Benefits%20of%20email%20forwarding) </a>

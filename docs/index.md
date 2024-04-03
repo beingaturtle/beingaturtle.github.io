@@ -1,5 +1,6 @@
 # Introduction
-Welcome to our documentation that will help you navigate to three important sections in the <a href = "https://my.bcit.ca/" style = "color: #e66b00"> myBCIT </a>
+Welcome to our documentation that will help you navigate to three important sections in the [myBCIT](https://my.bcit.
+ca/)
  website. The goal is provide a detailed tutorial that streamlines BCIT students in 
 finding their course schedule, creating an e-mail signature, and forwarding myBCIT e-mails to their personal e-mail 
 address.
@@ -20,18 +21,18 @@ This documentation assumes:
 ## Software Requirements
 Please ensure that you have one of the following internet browers installed:
 
-* <a href = "https://www.google.com/intl/en_ca/chrome/" style = "color: #e66b00"> Google Chrome v122.0 </a> or later
-* <a href = "https://www.apple.com/ca/safari/" style = "color: #e66b00"> Safari v17.3.1 </a> or later
-* <a href = "https://www.mozilla.org/en-CA/firefox/new/" style = "color: #e66b00"> Firefox v124 </a> or later
-* <a href = "https://www.microsoft.com/en-us/edge/download?form=MA13FJ" style = "color: #e66b00"> Microsoft Edge v131 </a> or later
+* [Google Chrome v122.0](https://www.google.com/intl/en_ca/chrome/) or later
+* [Safari v17.3.1](https://www.apple.com/ca/safari/) or later
+* [Firefox v124](https://www.microsoft.com/en-us/edge/download?form=MA13FJ) or later
+* [Microsoft Edge v131](https://www.microsoft.com/en-us/edge/download?form=MA13FJ) or later
 * Any other updated internet browsers
 
 ## Procedures Overview
 The main sections of this documentation are summarized below:
 
-* <a href = "task1" style = "color: #e66b00"> Accessing BCIT Course Schedule </a>
-* <a href = "task2" style = "color: #e66b00"> Creating E-mail Signature </a>
-* <a href = "task3" style = "color: #e66b00"> Forwarding BCIT E-mail </a>
+* [Accessing BCIT Course Schedule](task1)
+* [Creating E-mail Signature](task2)
+* [Forwarding BCIT E-mail](task3)
 
 ## Typographical Conventions
 
@@ -57,4 +58,4 @@ Throughout the documentation, you'll encounter message blocks that alert you wit
 That's it! Begin learning how to access your BCIT course schedule.
 <br>
 <br>
-<a href="task1" style = "color: #e66b00">**Accessing BCIT Course Schedule**</a>
+**[Accessing BCIT Course Schedule](task1)**

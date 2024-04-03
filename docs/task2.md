@@ -5,7 +5,7 @@
 
 In this section, you'll learn how to create a BCIT e-mail signature, which will be automatically inserted at 
 the bottom of every e-mail you send. Creating an e-mail signature serves several 
-purposes<sup><a href="#fn1" style = "color: #e66b00">1</a></sup>:
+purposes<sup>[1](#fn1)</sup>:
 
 - Increases Professionalism
 - Shows Personality
@@ -22,10 +22,10 @@ Before creating your e-mail signature, you will need to login to the myBCIT webs
 1. Ensure you have a BCIT Account 
 <br>
     Example:
-       - E-mail: <a href="" style = "color: #e66b00">Looney@my.bcit.ca</a>
+       - E-mail: <Looney@my.bcit.ca>
        - Password: 1234562
 
-2. <u>Type in the search bar: <a href = "https://my.bcit.ca/" style = "color: #e66b00">https://my.bcit.ca/</a></u> 
+2. <u>Type in the search bar: [https://my.bcit.ca/](https://my.bcit.ca/)</a></u> 
    and **press the Enter key**. You will be directed to myBCIT Login 
    Page
 
@@ -131,9 +131,9 @@ By the end of this section, you will have learned the following:
 Wonderful job! Feel free to proceed to the next step.
 <br>
 
-<a href = "task3" style = "color: #e66b00"> **Forwarding BCIT E-mail** </a>
+**[Forwarding BCIT E-mail](task3.md)**
 
 ***
-<a id="fn1" style = "color: #e66b00" href = "https://exclaimer.
-com/email-signature-handbook/personal-email-signature/">1. The positive benefits of a personal email signature</a>
+<a id="fn1">[1. The positive benefits of a personal email signature](https://exclaimer.
+com/email-signature-handbook/personal-email-signature/)</a>
 
