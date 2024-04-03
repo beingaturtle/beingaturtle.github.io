@@ -12,7 +12,7 @@ By the end of this section emails you have sent using the BCIT email will have t
 
 2. Open the Web Browser you want to use
 
-![Image title](./assets/task2/T2_S2.png){: style="height:150px;width:150px"}
+<figure markdown = "span">![Image title](./assets/task2/T2_S2.png){: style="height:250px;width:250px"}
 
 !!! Note
     BCIT recommends using Chrome,Firefox, or Edge as your main web browser
