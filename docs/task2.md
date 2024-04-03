@@ -118,8 +118,7 @@ Test to ensure the signature is seen when you send a email
     <figure markdown = "span"> ![Image title](./assets/task2/T2_S14.png){ loading=lazy }  </figure>
 
 !!! success
-    Well done! You have now created a signature for your BCIT email. Whenever you send emails out, receipients will
-    notice your professionalism
+    Well done! You have now created a signature for your BCIT email
 
 ## Conclusion
 
