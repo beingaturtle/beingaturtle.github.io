@@ -39,10 +39,10 @@ The main sections of this documentation are summarized below:
 1. Instructions that require you to click on an item, such as a link or a button, or press a keyboard key, will be 
    bolded.  For 
    example: 
-    - **Click on the "Continue" button**
-    - **Press the Enter key**
+    - **```Click on the "Continue" button```**
+    - **```Press the Enter key```**
 2. Instructions that require you to type in information will be <u>underlined</u>. For example:
-    - <u>Enter your information</u>
+    - <u>```Enter your information```</u>
 
 ## Notes, Danger, and Success Messages
 Throughout the documentation, you'll encounter message blocks that alert you with relevant information.
