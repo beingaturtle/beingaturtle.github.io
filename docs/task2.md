@@ -41,11 +41,12 @@ Before creating your e-mail signature, you will need to login to the myBCIT webs
 
     !!! Note
         You will now be directed to the myBCIT Home Tab with your student name shown in the upper right of the screen
-
-    <figure markdown = "span"> ![Image title](./assets/task2/T2_S5.1.png){ loading=lazy } </figure>
+        <figure markdown = "span"> ![Image title](./assets/task2/T2_S5.1.png){ loading=lazy } </figure>
 
     !!! Danger
-        Repeatedly signing in with wrong credentials can cause the BCIT Website to block you devices from logging in
+        1. If you encounter a "Session Timeout", press the "OK" button that pops-up, and it will automatically refresh the page for you
+        2. Repeatedly signing in with wrong credentials can cause the BCIT Website to block you devices from logging in
+
 
 ## Navigate to BCIT Mail
 1. **Click "My Mail”** which is seen on the left of your student name
@@ -97,7 +98,7 @@ Before creating your e-mail signature, you will need to login to the myBCIT webs
 <!-- !!! Note
     Do not leave the page if you want to follow the test below if you done it right. WE MIGHT want to remove this-->
 
-## Verifying Signature
+## Verify Signature
 
 Test to ensure the signature is seen when you send a e-mail
 

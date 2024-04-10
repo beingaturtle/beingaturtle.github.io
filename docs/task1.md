@@ -32,13 +32,16 @@ Before accessing your BCIT course schedule, you will need to login to the myBCIT
     <figure markdown = "span"> ![BCIT signin](./assets/task1/T1_signin.png){ loading=lazy } </figure>
 
     !!! Note
-        You will now be directed to the myBCIT home page with your student name shown in the upper right of the 
-        screen
+        You will now be directed to the myBCIT Home Tab with your student name shown in the upper right of the screen
+        <figure markdown = "span"> ![Image title](./assets/task2/T2_S5.1.png){ loading=lazy } </figure>
+
+    !!! Danger
+        1. If you encounter a "Session Timeout", press the "OK" button that pops-up, and it will automatically refresh the page for you
+        2. Repeatedly signing in with wrong credentials can cause the BCIT Website to block you devices from logging in
 
 ## Navigate to Course Schedule
 1. Find the “Online Self Service” category on the right side of the myBCIT website
-    <figure markdown = "span">![Online Self Service](./assets/task1/T1_S1.png){ loading=lazy} 
-   </figure>
+    <figure markdown = "span">![Online Self Service](./assets/task1/T1_S1.png){ loading=lazy}</figure>
 
 2. In the “Student Self Service” header, **click on “Check Course Schedules”**
     <figure markdown = "span">![Student Self Service](./assets/task1/T1_S2.png){ loading=lazy} 
