@@ -80,11 +80,13 @@ Before forwarding your e-mail, you will need to login to the myBCIT website:
     - This will create a filter set named Forwarding under filter sets
     - which allows you to group the different filters you want for your e-mails
 
-5. **Find and click the newly created filter set name "Forwarding" under the "Filter Sets"**
+5. **Click on the "Save" button**
+    <figure markdown = "span"> ![Image title](./assets/task3/T3_S17.png){ loading=lazy } </figure>
+
+6. **Find and click the newly created filter set name "Forwarding" under the "Filter Sets"**
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S11.png){ loading=lazy } </figure>
 
-6. **Click on the "Save" button**
 
 ## Enable Email Forwarding
 
