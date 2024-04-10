@@ -1,7 +1,3 @@
-<meta http-equiv='cache-control' content='no-cache'> 
-<meta http-equiv='expires' content='0'> 
-<meta http-equiv='pragma' content='no-cache'>
-
 # Introduction
 Welcome to our documentation that will help you navigate to three important sections in the [myBCIT](https://my.bcit.
 ca/)
