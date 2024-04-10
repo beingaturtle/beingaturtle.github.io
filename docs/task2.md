@@ -45,7 +45,7 @@ Before creating your e-mail signature, you will need to login to the myBCIT webs
 
     !!! Danger
         1. If you encounter a "Session Timeout", press the "OK" button that pops-up, and it will automatically refresh the page for you
-        2. Repeatedly signing in with wrong credentials can cause the BCIT Website to block you devices from logging in
+        2. Repeatedly signing in with wrong credentials can cause the BCIT Website to block your devices from logging in
 
 
 ## Navigate to BCIT Mail
