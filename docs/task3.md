@@ -28,7 +28,7 @@ Before forwarding your e-mail, you will need to login to the myBCIT website:
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S3.png){ loading=lazy } </figure>
 
-3. <u>**Type in your Account Credentials**</u>
+3. <u>Type in your Account Credentials</u>
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S4.png){ loading=lazy } </figure>
 
@@ -46,7 +46,7 @@ Before forwarding your e-mail, you will need to login to the myBCIT website:
 
 ## Navigate to BCIT Mail
 
-1. **Click on “My Mail”** at the top-right corner
+1. **Click on “My Mail” at the top-right corner**
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S6.png){ loading=lazy } </figure>
 
@@ -55,15 +55,15 @@ Before forwarding your e-mail, you will need to login to the myBCIT website:
 
 ## Create a Filter Set
 
-1. **Click** “Settings”, found on the upper right of the website
+1. **Click “Settings”, found on the upper right of the website**
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S7.png){ loading=lazy } </figure>
 
-2. **Click** on “Filter”, found on the left side of the page
+2. **Click on “Filter”, found on the left side of the page**
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S8.png){ loading=lazy } </figure>
 
-3. **Click on +** found under the filters set section
+3. **Click on + found under the filters set section**
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S9.png){ loading=lazy } </figure>
 
@@ -72,7 +72,7 @@ Before forwarding your e-mail, you will need to login to the myBCIT website:
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S9.1.png){ loading=lazy } </figure>
 
-4. <u>**Type "Forwarding" for Filters Set Name**</u> and **select and click none for filters**
+4. <u>Type "Forwarding" for Filters Set Name</u> and **select and click none for filters**
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S10.png){ loading=lazy } </figure>
 
@@ -80,32 +80,34 @@ Before forwarding your e-mail, you will need to login to the myBCIT website:
     - This will create a filter set named Forwarding under filter sets
     - which allows you to group the different filters you want for your e-mails
 
-5. Find and **click the newly created filter set name "Forwarding"** under the "Filter Sets"
+5. **Find and click the newly created filter set name "Forwarding" under the "Filter Sets"**
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S11.png){ loading=lazy } </figure>
 
+6. **Click on the "Save" button**
+
 ## Enable Email Forwarding
 
-1. **Click on the +** under "filters"
+1. **Click on the + under "filters"**
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S12.png){ loading=lazy } </figure>
 
     !!! Note
         This will open "Filter Definition" section
 
-2. <u>**Type "Forwarding to Gmail"**</u> for Filter name and Select "all messages"
+2. <u>Type "Forwarding to Gmail" for Filter name and Select "all messages" </u>
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S13.png){ loading=lazy } </figure>
 
-3. **Click** on the drop-down menu and select “Redirect message to”
+3. **Click on the drop-down menu and select “Redirect message to”**
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S14.png){ loading=lazy } </figure>
 
-4. <u>**Type the e-mail address**</u> that you want to forward your incoming BCIT Emails to
+4. <u>Type the e-mail address that you want to forward your incoming BCIT Emails to </u>
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S15.png){ loading=lazy } </figure>
 
-5. **Click** on the “Save” button
+5. **Click on the “Save” button**
 
     <figure markdown = "span"> ![Image title](./assets/task3/T3_S16.png){ loading=lazy } </figure>
 
